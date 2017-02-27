@@ -1,0 +1,6 @@
+int main(argc,argv)
+{
+  int value=2;
+  cout<<value;
+  return 0;
+}
